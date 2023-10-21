@@ -1,14 +1,14 @@
 # Emergency-Room-Triage
 This is an essential console program that simulates a patient emergency room triage system. The program is equipped with a priority patient queue, making it suitable for managing patients in an emergency room setting.
 
-Purpose
+Purpose:-
 The main objective of this project was to create a console program that could effectively manage a queue of patients in an emergency room. The project incorporates features such as adding patients to the queue, processing patients based on priority, viewing the queue, viewing the history of processed patients, loading patient data from a CSV file, saving patient data to a CSV file, and exiting the program.
 
-File Structure
+File Structure:-
 1. Triage.cpp: This file serves as the main program. It displays the welcome screen, main menu, and handles user interactions.
 2. Triage.h: This header file stores the class definition and function prototypes used in Triage.cpp.
 
-What I've Learned
+What I've Learned:-
 During the development of this project, I gained valuable experience and knowledge in C++ programming and software development. Here are some of the key learnings:
 
 1. File Handling: I learned how to read and write to files in C++ and successfully implemented the functionality to load patient data from a CSV file and save it back.
